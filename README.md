@@ -28,9 +28,7 @@ that is there are 690 images in the with mask class and 686 images in the withou
 In our Social Distance Monitoring model we have used YOLO to detect Persons in real time video.
 
 # Output
-<img src="./images/sd1.png">
-<img src="C:/Users/Home/Downloads/sd2.png">
+<img src="./images/sd1.PNG">
+<img src="./images/sd2.PNG">
 <img src="./images/sd3.PNG">
 
-![output]("./images/sd1.png")
-![output]("./images/sd2.PNG")
