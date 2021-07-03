@@ -32,4 +32,4 @@ In our Social Distance Monitoring model we have used YOLO to detect Persons in r
 <img src="C:/Users/Home/Downloads/sd2.png">
 <img src="C:/Users/Home/Downloads/sd3.png">
 
-![output](./images/sd1.png)
+![output]("./images/sd1.png")
