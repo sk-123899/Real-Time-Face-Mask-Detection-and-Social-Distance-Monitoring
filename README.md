@@ -27,3 +27,5 @@ that is there are 690 images in the with mask class and 686 images in the withou
 3. YOLOv3 was used for Social distance module, YOLO stands for (You Only Look Once).It is a real-time object detection algorithm that identifies specific objects in videos, live feeds, or images.
 In our Social Distance Monitoring model we have used YOLO to detect Persons in real time video.
 
+# Output
+<img src="Downloads/sd1.png">
