@@ -32,3 +32,6 @@ In our Social Distance Monitoring model we have used YOLO to detect Persons in r
 
 # Contact Me
  https://www.linkedin.com/in/shreyas-kotkar/
+
+# Video Link
+https://youtu.be/sFxxMk4IDrs
