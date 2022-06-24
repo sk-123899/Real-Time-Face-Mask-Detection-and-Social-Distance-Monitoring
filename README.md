@@ -30,6 +30,10 @@ In our Social Distance Monitoring model we have used YOLO to detect Persons in r
 # Output
 <img src="./images/sd1.PNG">  <img src="./images/sd2.PNG">  <img src="./images/sd3.PNG">
 
+# Paper published by our team
+https://www.jetir.org/view?paper=JETIRFD06040
+
+
 # Contact Me
  https://www.linkedin.com/in/shreyas-kotkar/
 
